@@ -1,0 +1,785 @@
+{
+  "products": [
+    {
+      "id": "camera-1",
+      "name": "Camera 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/cameras/1.png",
+      "otherImages": [],
+      "type": "cameras",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "camera-2",
+      "name": "Camera 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/cameras/2.png",
+      "otherImages": [],
+      "type": "cameras",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "camera-3",
+      "name": "Camera 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/cameras/3.png",
+      "otherImages": [],
+      "type": "cameras",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "lamp-1",
+      "name": "Lamp 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/lamps/1.png",
+      "otherImages": [],
+      "type": "desk-accessories",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "lamp-2",
+      "name": "Lamp 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/lamps/2.png",
+      "otherImages": [],
+      "type": "desk-accessories",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "lamp-3",
+      "name": "Lamp 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/lamps/3.png",
+      "otherImages": [],
+      "type": "desk-accessories",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "notebook-1",
+      "name": "Notebook 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/notebooks/1.png",
+      "otherImages": [],
+      "type": "notebooks",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "notebook-2",
+      "name": "Notebook 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/notebooks/2.png",
+      "otherImages": [],
+      "type": "notebooks",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 5
+    },
+    {
+      "id": "notebook-3",
+      "name": "Notebook 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/notebooks/3.png",
+      "otherImages": [],
+      "type": "notebooks",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 3
+    },
+    {
+      "id": "smart-watch-1",
+      "name": "Smart Watch 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/smart-watches/1.png",
+      "otherImages": [],
+      "type": "smart-watches",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 5
+    },
+    {
+      "id": "smart-watch-2",
+      "name": "Smart Watch 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/smart-watches/2.png",
+      "otherImages": [],
+      "type": "smart-watches",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-5",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 5
+    },
+    {
+      "id": "smart-watch-3",
+      "name": "Smart Watch 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/smart-watches/3.png",
+      "otherImages": [],
+      "type": "smart-watches",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-5",
+        "smart-watch-2",
+        "smart-watch-1",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "smart-watch-4",
+      "name": "Smart Watch 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/smart-watches/4.png",
+      "otherImages": [],
+      "type": "smart-watches",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-5",
+        "smart-watch-2",
+        "smart-watch-1",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "smart-watch-5",
+      "name": "Smart Watch 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/smart-watches/5.png",
+      "otherImages": [],
+      "type": "smart-watches",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 3
+    },
+    {
+      "id": "mouse-1",
+      "name": "Mouse 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/mouses/1.png",
+      "otherImages": [],
+      "type": "keyboards-and-mouses",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "mouse-2",
+      "name": "Mouse 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/mouses/2.png",
+      "otherImages": [],
+      "type": "keyboards-and-mouses",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "laptop-1",
+      "name": "Laptop 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/laptops/1.png",
+      "otherImages": [],
+      "type": "laptops",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "laptop-2",
+      "name": "Laptop 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/laptops/2.png",
+      "otherImages": [],
+      "type": "laptops",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "laptop-4",
+      "name": "Laptop 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/laptops/4.png",
+      "otherImages": [],
+      "type": "laptops",
+      "attributes": [
+        {
+          "name": "Color",
+          "values": ["black", "white", "gray", "#bc6c25", "red", "#3a5a40"]
+        },
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "phone-1",
+      "name": "Phone 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/phones/galaxy.png",
+      "otherImages": [],
+      "type": "phones-and-accessories",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "phone-2",
+      "name": "Phone 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/phones/iphones.png",
+      "otherImages": [],
+      "type": "phones-and-accessories",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "laptop-3",
+      "name": "Laptop 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/laptops/3.png",
+      "otherImages": [],
+      "type": "laptops",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "computer-1",
+      "name": "Computer 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/computers/1.png",
+      "otherImages": [],
+      "type": "computers",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "monitor-1",
+      "name": "Monitor 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/monitors/1.png",
+      "otherImages": [],
+      "type": "monitors",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "monitor-2",
+      "name": "Monitor 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/monitors/2.png",
+      "otherImages": [],
+      "type": "monitors",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "bag-1",
+      "name": "Bag 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/bags/1.png",
+      "otherImages": [
+        "https://prod2-media.electroplanet.ma/media/catalog/product/cache/14e469c4a70431355c88f88fd8855f6e/2/9/2984773-2984772-vivo_16_1__1.png",
+        "https://prod2-media.electroplanet.ma/media/catalog/category/electroplanet-767-hybride-2-en-1.webp",
+        "https://prod2-media.electroplanet.ma/media/catalog/category/electroplanet-768-macbook.webp",
+        "https://prod2-media.electroplanet.ma/media/catalog/category/electroplanet-772-ultrabook.webp"
+      ],
+      "type": "bags",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "bag-2",
+      "name": "Bag 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/bags/2.png",
+      "otherImages": [],
+      "type": "bags",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "bag-3",
+      "name": "Bag 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/bags/3.png",
+      "otherImages": [],
+      "type": "bags",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "bag-4",
+      "name": "Bag 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/bags/4.png",
+      "otherImages": [],
+      "type": "bags",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    },
+    {
+      "id": "monitor-3",
+      "name": "Monitor 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/monitors/3.png",
+      "otherImages": [],
+      "type": "monitors",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 2
+    }
+  ],
+  "newArrivals": [
+    ["smart-watch-4", "laptop-1", "lamp-2", "notebook-3", "smart-watch-5"],
+    ["laptop-4", "camera-1", "computer-1", "bag-4", "monitor-3", "mouse-1"]
+  ],
+  "bestOffers": [],
+  "promotions": [
+    "notebook-2",
+    "mouse-2",
+    "lamp-3",
+    "smart-watch-4",
+    "mouse-1",
+    "phone-1",
+    "computer-1"
+  ],
+  "categories": [
+    {
+      "id": "smart-watches",
+      "name": "Smart Watches",
+      "image": "/smart-watches/3.png",
+      "items": []
+    },
+    {
+      "id": "laptops",
+      "name": "Laptops",
+      "image": "/laptops/4.png",
+      "items": []
+    },
+    {
+      "id": "computers",
+      "name": "Computers",
+      "image": "/computers/1.png",
+      "items": []
+    },
+    {
+      "id": "desk-accessories",
+      "name": "Desk accessories",
+      "image": "/lamps/1.png",
+      "items": []
+    },
+    {
+      "id": "notebooks",
+      "name": "Notebooks",
+      "image": "/notebooks/1.png",
+      "items": []
+    },
+    {
+      "id": "keyboards-and-mouses",
+      "name": "Keyboards and mouses",
+      "image": "/mouses/1.png",
+      "items": []
+    },
+    {
+      "id": "phones-and-accessories",
+      "name": "Phones and accessories",
+      "image": "/phones/iphones.png",
+      "items": []
+    },
+    {
+      "id": "bags",
+      "name": "Bags",
+      "image": "/bags/4.png",
+      "items": []
+    },
+    {
+      "id": "cameras",
+      "name": "Cameras",
+      "image": "/cameras/1.png",
+      "items": []
+    },
+    {
+      "id": "monitors",
+      "name": "Monitors",
+      "image": "/monitors/3.png",
+      "items": []
+    }
+  ]
+}
