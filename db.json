@@ -1,6 +1,52 @@
 {
   "products": [
     {
+      "id": "notebook-5",
+      "name": "Notebook 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/notebooks/5.png",
+      "otherImages": [],
+      "type": "notebooks",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
+      "id": "notebook-4",
+      "name": "Notebook 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "price": 154,
+      "oldPrice": 199,
+      "mainImage": "/notebooks/4.png",
+      "otherImages": [],
+      "type": "notebooks",
+      "attributes": [
+        {
+          "name": "Stockage",
+          "values": ["32GB", "64GB", "128GB", "256GB", "512GB"]
+        }
+      ],
+      "relatedProducts": [
+        "smart-watch-1",
+        "smart-watch-2",
+        "smart-watch-3",
+        "smart-watch-4"
+      ],
+      "stars": 4
+    },
+    {
       "id": "camera-1",
       "name": "Camera 1",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
