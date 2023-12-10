@@ -7,7 +7,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/notebooks/5.png",
-      "otherImages": [],
+      "otherImages": ["/notebooks/1.png", "/notebooks/2.png", "/notebooks/3.png", "/notebooks/4.png"],
       "type": "notebooks",
       "attributes": [
         {
@@ -16,10 +16,10 @@
         }
       ],
       "relatedProducts": [
-        "smart-watch-1",
-        "smart-watch-2",
-        "smart-watch-3",
-        "smart-watch-4"
+        "notebook-1",
+        "notebook-2",
+        "notebook-3",
+        "notebook-4"
       ],
       "stars": 4
     },
@@ -30,7 +30,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/notebooks/4.png",
-      "otherImages": [],
+      "otherImages": ["/notebooks/1.png", "/notebooks/2.png", "/notebooks/3.png", "/notebooks/5.png"],
       "type": "notebooks",
       "attributes": [
         {
@@ -39,10 +39,10 @@
         }
       ],
       "relatedProducts": [
-        "smart-watch-1",
-        "smart-watch-2",
-        "smart-watch-3",
-        "smart-watch-4"
+        "notebook-1",
+        "notebook-2",
+        "notebook-3",
+        "notebook-5"
       ],
       "stars": 4
     },
@@ -197,7 +197,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/notebooks/1.png",
-      "otherImages": [],
+      "otherImages": ["/notebooks/2.png", "/notebooks/3.png", "/notebooks/4.png", "/notebooks/5.png"],
       "type": "notebooks",
       "attributes": [
         {
@@ -206,10 +206,10 @@
         }
       ],
       "relatedProducts": [
-        "smart-watch-1",
-        "smart-watch-2",
-        "smart-watch-3",
-        "smart-watch-4"
+        "notebook-5",
+        "notebook-2",
+        "notebook-3",
+        "notebook-4"
       ],
       "stars": 4
     },
@@ -220,7 +220,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/notebooks/2.png",
-      "otherImages": [],
+      "otherImages": ["/notebooks/1.png", "/notebooks/3.png", "/notebooks/4.png", "/notebooks/5.png"],
       "type": "notebooks",
       "attributes": [
         {
@@ -229,10 +229,10 @@
         }
       ],
       "relatedProducts": [
-        "smart-watch-1",
-        "smart-watch-2",
-        "smart-watch-3",
-        "smart-watch-4"
+        "notebook-1",
+        "notebook-5",
+        "notebook-3",
+        "notebook-4"
       ],
       "stars": 5
     },
@@ -243,7 +243,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/notebooks/3.png",
-      "otherImages": [],
+      "otherImages": ["/notebooks/1.png", "/notebooks/2.png", "/notebooks/4.png", "/notebooks/5.png"],
       "type": "notebooks",
       "attributes": [
         {
@@ -252,10 +252,10 @@
         }
       ],
       "relatedProducts": [
-        "smart-watch-1",
-        "smart-watch-2",
-        "smart-watch-3",
-        "smart-watch-4"
+        "notebook-1",
+        "notebook-2",
+        "notebook-5",
+        "notebook-4"
       ],
       "stars": 3
     },
@@ -266,7 +266,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/smart-watches/1.png",
-      "otherImages": [],
+      "otherImages": ["/smart-watches/2.png", "/smart-watches/3.png", "/smart-watches/4.png", "/smart-watches/5.png"],
       "type": "smart-watches",
       "attributes": [
         {
@@ -289,7 +289,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/smart-watches/2.png",
-      "otherImages": [],
+      "otherImages": ["/smart-watches/1.png", "/smart-watches/3.png", "/smart-watches/4.png", "/smart-watches/5.png"],
       "type": "smart-watches",
       "attributes": [
         {
@@ -312,7 +312,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/smart-watches/3.png",
-      "otherImages": [],
+      "otherImages": ["/smart-watches/1.png", "/smart-watches/2.png", "/smart-watches/4.png", "/smart-watches/5.png"],
       "type": "smart-watches",
       "attributes": [
         {
@@ -335,7 +335,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/smart-watches/4.png",
-      "otherImages": [],
+      "otherImages": ["/smart-watches/1.png", "/smart-watches/2.png", "/smart-watches/3.png", "/smart-watches/5.png"],
       "type": "smart-watches",
       "attributes": [
         {
@@ -358,7 +358,7 @@
       "price": 154,
       "oldPrice": 199,
       "mainImage": "/smart-watches/5.png",
-      "otherImages": [],
+      "otherImages": ["/smart-watches/1.png", "/smart-watches/2.png", "/smart-watches/3.png", "/smart-watches/4.png"],
       "type": "smart-watches",
       "attributes": [
         {
